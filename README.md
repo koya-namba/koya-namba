@@ -1,4 +1,4 @@
-## Hi  I’m Namba Koya👋
+## Hi 👋
 - I’m interested in ML and DL.
 - I’m currently developing ML apps!
 
