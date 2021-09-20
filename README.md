@@ -1,6 +1,6 @@
 ## Hi 👋
-- I’m interested in ML and DL.
-- I’m currently developing ML apps!
+- I’m interested in Webapp, ML and DL.
+- I’m currently developing Work Shift app!
 
 <!---
 koya-namba/koya-namba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
