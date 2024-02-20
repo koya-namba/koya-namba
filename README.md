@@ -1,5 +1,6 @@
 ## Hi 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koya-namba&show_icons=true&thema=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koya-namba&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 koya-namba/koya-namba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
